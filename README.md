@@ -27,7 +27,6 @@ Coin Collector Game is a 2D game where players control a bunny that runs and col
 ### Game Over Scene
 ![Game Over Scene](ReadmeImages/over.png)
 
-*(Replace `readme_images/` with the correct relative path if needed.)*
 
 ## How to Play
 1. Launch the game.
